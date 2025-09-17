@@ -1,4 +1,4 @@
-# lucky-chole-bhature
+# Lucky ke chole bhature
 Website for Lucky ke Chole Bhature at Pragati Maidan Gate No. 2
 <!DOCTYPE html>
 <html lang="en">
