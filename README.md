@@ -33,8 +33,8 @@ Website for Lucky ke Chole Bhature at Pragati Maidan Gate No. 2
 
   <section id="menu">
     <h2>🍴 Menu</h2>
-    <div class="menu-item"><b>Chole Bhature</b> – ₹70</div>
-    <div class="menu-item"><b>Chole Rice</b> – ₹60</div>
+    <div class="menu-item"><b>Chole Bhature</b> – ₹50</div>
+    <div class="menu-item"><b>Chole Rice</b> – ₹50</div>
     <div class="menu-item"><b>Raita</b> – ₹20</div>
   </section>
 
